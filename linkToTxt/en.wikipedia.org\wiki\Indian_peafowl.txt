@@ -1,0 +1,3125 @@
+Indian peafowl - Wikipedia
+(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-appearance-disabled vector-feature-appearance-pinned-clientpref-0 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":
+["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"3790fcfc-9c86-4991-8b33-60bd1cb66f34","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Indian_peafowl","wgTitle":"Indian peafowl","wgCurRevisionId":1227471163,"wgRevisionId":1227471163,"wgArticleId":548255,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: multiple names: authors list","Articles with short description","Short description is different from Wikidata","Use British English from March 2013","Use dmy dates from August 2021","Articles with 'species' microformats","Taxonbars with 25–29 taxon IDs","Articles with BNF identifiers","Articles with BNFdata identifiers","Articles with J9U identifiers","Articles with LCCN identifiers","Articles containing video clips",
+"IUCN Red List least concern species","Pavo (genus)","National symbols of India","Birds of South Asia","Birds described in 1758","Taxa named by Carl Linnaeus"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Indian_peafowl","wgRelevantArticleId":548255,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":70000,"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,
+"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q61865","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.player.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediamessages.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"
+,"ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","ext.tmh.player","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account
+Log in
+Pages for logged out editors
+learn more
+Contributions
+Talk
+Contents
+move to sidebar
+hide
+(Top)
+1
+Taxonomy and naming
+2
+Description
+Toggle Description subsection
+2.1
+Mutations and hybrids
+3
+Distribution and habitat
+4
+Genome sequencing
+5
+Behaviour and ecology
+Toggle Behaviour and ecology subsection
+5.1
+Sexual selection
+5.2
+Breeding
+5.3
+Feeding
+5.4
+Mortality factors
+6
+Conservation and status
+7
+In culture
+8
+References
+9
+Further reading
+10
+External links
+Toggle the table of contents
+Indian peafowl
+89 languages
+Адыгэбзэ
+Afrikaans
+العربية
+Aragonés
+Arpetan
+अवधी
+Azərbaycanca
+Basa Bali
+বাংলা
+閩南語 / Bân-lâm-gú
+भोजपुरी
+Български
+Brezhoneg
+Català
+Cebuano
+Čeština
+Cymraeg
+Dansk
+Davvisámegiella
+Deutsch
+ދިވެހިބަސް
+Diné bizaad
+Eesti
+Español
+Esperanto
+Euskara
+فارسی
+Føroyskt
+Français
+Galego
+ГӀалгӀай
+한국어
+हिन्दी
+Bahasa Indonesia
+Italiano
+עברית
+Jawa
+ქართული
+कॉशुर / کٲشُر
+Kurdî
+Ladino
+Latviešu
+Lietuvių
+Magyar
+मैथिली
+Македонски
+Malagasy
+മലയാളം
+मराठी
+مصرى
+Bahasa Melayu
+မြန်မာဘာသာ
+Nederlands
+नेपाली
+日本語
+Norsk bokmål
+Occitan
+ଓଡ଼ିଆ
+پنجابی
+Picard
+Polski
+Português
+Română
+Русский
+संस्कृतम्
+ᱥᱟᱱᱛᱟᱲᱤ
+Sardu
+Shqip
+සිංහල
+Simple English
+Slovenčina
+Slovenščina
+Српски / srpski
+Srpskohrvatski / српскохрватски
+Sunda
+Suomi
+Svenska
+Tagalog
+தமிழ்
+ไทย
+ತುಳು
+Türkçe
+Українська
+اردو
+Tiếng Việt
+Winaray
+吴语
+粵語
+中文
+Edit links
+Article
+Talk
+English
+Read
+Edit
+View history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+General
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Download QR code
+Wikidata item
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Wikispecies
+From Wikipedia, the free encyclopedia
+Species of bird
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}
+"Common peacock" redirects here. For the butterfly with this common name, see
+Papilio polyctor
+.
+Indian peafowl
+Peacock displaying in
+East Park, Kingston upon Hull
+Peahen at
+Tierpark Hagenbeck
+,
+Germany
+Conservation status
+Least Concern
+(
+IUCN 3.1
+)
+[1]
+Scientific classification
+Domain:
+Eukaryota
+Kingdom:
+Animalia
+Phylum:
+Chordata
+Class:
+Aves
+Order:
+Galliformes
+Family:
+Phasianidae
+Genus:
+Pavo
+Species:
+P. cristatus
+Binomial name
+Pavo cristatus
+Linnaeus
+,
+1758
+Map showing native range
+html.skin-theme-clientpref-night .mw-parser-output .infobox.biota tr{background:transparent!important}html.skin-theme-clientpref-night .mw-parser-output .infobox.biota img{background:white}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox.biota tr{background:transparent!important}html.skin-theme-clientpref-os .mw-parser-output .infobox.biota img{background:white}}.mw-parser-output .infobox.biota .taxobox-edit-taxonomy img{background:transparent!important}body.skin--responsive .mw-parser-output table.biota.infobox tr.taxonrow td{padding:2px 10px}
+The
+Indian peafowl
+(
+Pavo cristatus
+), also known as the
+common peafowl
+or
+blue peafowl
+, is a
+peafowl
+species
+native to the
+Indian subcontinent
+. It has been introduced to many other countries.  Male peafowl are referred to as
+peacocks
+, and female peafowl are referred to as
+peahens
+, although both sexes are often referred to
+colloquially
+as a "peacock".
+[2]
+Indian peafowl display a marked form of
+sexual dimorphism
+. The peacock is brightly coloured, with a predominantly blue fan-like crest of spatula-tipped wire-like feathers and is best known for the long train made up of elongated upper-tail
+covert feathers
+which bear colourful eyespots. These stiff feathers are raised into a fan and quivered in a display during courtship. Despite the length and size of these covert feathers, peacocks are still capable of flight. Peahens lack the train, have a white face and iridescent green lower neck, and dull brown plumage. The Indian peafowl lives mainly on the ground in open forest or on land under cultivation where it forages for berries, grains but also prey on snakes, lizards and small rodents. Its loud calls make it easy to detect, and in forest areas often indicate the presence of a predator. It forages on the ground in small groups and usually escapes on foot through undergrowth and avoid flying, though it fly into tall trees to roost.
+The function of the peacock's elaborate train has been debated for over a century. In the 19th century,
+Charles Darwin
+found it a puzzle, hard to explain through ordinary
+natural selection
+. His later explanation,
+sexual selection
+, is widely but not universally accepted. In the 20th century,
+Amotz Zahavi
+argued that the train was a
+handicap
+, and that males were honestly
+signalling
+their fitness in proportion to the splendour of their trains. Despite extensive study, opinions remain divided on the mechanisms involved.
+The Indian peafowl is listed as
+Least Concern
+on the
+IUCN Red List
+. It is the
+national bird
+of
+India
+and venerated in
+Hindu
+and
+Greek mythology
+.
+Taxonomy and naming
+[
+edit
+]
+Carl Linnaeus
+in his work
+Systema Naturae
+in 1758 assigned to the Indian peafowl the technical name of
+Pavo cristatus
+(means "crested peafowl" in classical Latin).
+The earliest usage of the word in written English is from around 1300 and spelling variants include pecok, pekok, pecokk, peacocke, peacock, pyckock, poucock, pocok, pokok, pokokke, and poocok among others. The current spelling was established in the late 17th century.
+Chaucer
+(1343–1400) used the word to refer to a proud and ostentatious person in his
+simile
+"
+proud a pekok
+" in
+Troilus and Criseyde
+(Book I, line 210).
+[3]
+The
+Sanskrit
+, later
+Pali
+, and modern
+Hindi
+term for the animal is
+maur
+. It is debated that the nomenclature of the
+Maurya Empire
+, whose first emperor
+Chandragupta Maurya
+was raised and influenced by peacock farmers,
+[4]
+was named after the terminology.
+The Greek word for peacock was
+taos
+and was related to the Persian "tavus" (as in
+Takht-i-Tâvus
+for the famed
+Peacock Throne
+[5]
+). The
+Ancient Hebrew
+word
+tuki
+(plural
+tukkiyim
+) has been said to have been derived from the Tamil
+tokei
+but sometimes traced to the Egyptian
+tekh
+.
+[6]
+[7]
+In modern
+Hebrew
+the word for peacock is "tavas". In
+Sanskrit
+, the peacock is known as
+Mayura
+and is associated with the killing of snakes.
+Description
+[
+edit
+]
+Male neck detail
+Peacocks are a larger sized bird with a length from bill to tail of 100 to 115 cm (39 to 45 in) and to the end of a fully grown train as much as 195 to 225 cm (77 to 89 in) and weigh 4–6 kg (8.8–13.2 lb). The females, or peahens, are smaller at around 95 cm (37 in) in length and weigh 2.75–4 kg (6.1–8.8 lb). Indian peafowl are among the largest and heaviest representatives of the
+Phasianidae
+. So far as is known, only the
+wild turkey
+grows notably heavier. The
+green peafowl
+is slightly lighter in body mass despite the male having a longer train on average than the male of the Indian species. Their size, colour and shape of crest make them unmistakable within their native distribution range. The male is metallic blue on the crown, the feathers of the head being short and curled. The fan-shaped crest on the head is made of feathers with bare black shafts and tipped with bluish-green webbing. A white stripe above the eye and a crescent shaped white patch below the eye are formed by bare white skin. The sides of the head have iridescent greenish blue feathers. The back has scaly bronze-green feathers with black and copper markings. The scapular and the wings are buff and barred in black, the primaries are chestnut and the secondaries are black. The tail is dark brown and the "train" is made up of elongated upper tail coverts (more than 200 feathers, the actual tail has only 20 feathers) and nearly all of these feathers end with an elaborate eye-spot. A few of the outer feathers lack the spot and end in a crescent shaped black tip. The underside is dark glossy green shading into blackish under the tail. The thighs are buff coloured. The male has a spur on the leg above the hind toe.
+[8]
+[9]
+Call of
+Pavo cristatus
+The adult peahen has a rufous-brown head with a crest as in the male but the tips are chestnut edged with green. The upper body is brownish with pale mottling. The primaries, secondaries and tail are dark brown. The lower neck is metallic green and the breast feathers are dark brown glossed with green. The remaining underparts are whitish.
+[8]
+Downy young are pale buff with a dark brown mark on the nape that connects with the eyes.
+[10]
+Young males look like the females but the wings are chestnut coloured.
+[10]
+[11]
+The most common calls are a loud
+pia-ow
+or
+may-awe
+. The frequency of calling increases before the
+Monsoon
+season and may be delivered in alarm or when disturbed by loud noises. In forests, their calls often indicate the presence of a predators such as the tiger.
+[8]
+[11]
+They also make many other calls such as a rapid series of
+ka-aan..ka-aan
+or a rapid
+kok-kok
+.
+[11]
+[12]
+They often emit an explosive low-pitched
+honk!
+when agitated.
+Mutations and hybrids
+[
+edit
+]
+Black-shouldered Indian Peafowl
+Pavo cristatus
+from private collection of
+Coenraad Jacob Temminck
+(1778–1858), held at
+Naturalis Biodiversity Center
+, Leiden, the Netherlands.
+A white peafowl that is maintained by selective breeding in many parks such as this one at the
+Jardin des Plantes
+, Paris. This
+leucistic
+mutation is commonly mistaken for an
+albino
+.
+There are several colour mutations of Indian peafowl. These very rarely occur in the wild, but
+selective breeding
+has made them common in captivity. The black-shouldered or
+Japanned
+mutation was initially considered as a subspecies of the Indian peafowl (
+P. c. nigripennis
+) (or even a separate species (
+P. nigripennis
+))
+[13]
+and was a topic of some interest during Darwin's time. Others had doubts about its taxonomic status, but the English naturalist and biologist
+Charles Darwin
+(1809–1882) presented firm evidence for it being a variety under domestication, which treatment is now well established and accepted. It being a colour variation rather than a wild species was important for Darwin to prove, as otherwise it could undermine his theory of slow modification by natural selection in the wild.
+[14]
+It is, however, only a case of genetic variation within the population. In this mutation, the adult male is melanistic with black wings.
+[10]
+[15]
+Young birds with the
+nigripennis
+mutation are creamy white with fulvous-tipped wings. The gene produces melanism in the male and in the peahen it produces a dilution of colour with creamy white and brown markings. Other forms include the pied and white mutations, all of which are the result of
+allelic
+variation at specific
+loci
+.
+[16]
+[17]
+Crosses between a male
+green peafowl
+(
+Pavo muticus
+) and a female Indian peafowl (
+P. cristatus
+) produce a stable hybrid called a "Spalding", named after Mrs. Keith Spalding, a bird fancier in California.
+[18]
+There can be problems if birds of unknown pedigree are released into the wild, as the viability of such hybrids and their offspring is often reduced (see
+Haldane's rule
+and
+outbreeding depression
+).
+[19]
+[20]
+Distribution and habitat
+[
+edit
+]
+Peacock
+performing courtship at
+Yala National Park
+, Sri Lanka
+female with chick in Sri Lanka
+The Indian peafowl is a resident breeder across the
+Indian subcontinent
+and inhabits the drier lowland areas of
+Sri Lanka
+. In the Indian subcontinent, it is found mainly below an elevation of 1,800 m (5,900 ft) and in rare cases seen at about 2,000 m (6,600 ft).
+[21]
+It is found in moist and dry-deciduous forests, but can adapt to live in cultivated regions and around human habitations and is usually found where water is available. In many parts of northern India, they are protected by religious practices and will forage around villages and towns for scraps. Some have suggested that the peacock was introduced into
+Europe
+by
+Alexander the Great
+,
+[22]
+while others say the bird had reached
+Athens
+by 450 BCE and may have been introduced even earlier.
+[23]
+It has since been introduced in many other parts of the world and has become
+feral
+in some areas.
+[11]
+The Indian peafowl has been introduced to the
+United States
+, the
+United Kingdom
+,
+[24]
+United Arab Emirates
+,
+France
+,
+Mexico
+,
+Honduras
+,
+Costa Rica
+,
+Colombia
+,
+Guyana
+,
+Suriname
+,
+Brazil
+,
+Uruguay
+,
+Argentina
+,
+South Africa
+,
+Spain
+,
+Portugal
+,
+Greece
+,
+Italy
+,
+Madagascar
+,
+Mauritius
+,
+Réunion
+,
+Indonesia
+,
+Papua New Guinea
+,
+Australia
+,
+New Zealand
+,
+Croatia
+and the island of
+Lokrum
+.
+[25]
+Genome sequencing
+[
+edit
+]
+The first whole-genome sequencing of Indian peafowl identified a total of 15,970
+protein-coding sequences
+, along with 213 tRNAs, 236 snoRNAs, and 540 miRNAs. The peacock genome was found to have less repetitive DNA (8.62%) than that of the chicken genome (9.45%). PSMC analysis suggested that the peacock suffered at least two bottlenecks (around four million years ago and again 450,000 years ago), which resulted in a severe reduction in its effective population size.
+[26]
+Behaviour and ecology
+[
+edit
+]
+Peafowl are best known for the male's extravagant display feathers which, despite actually growing from their back, are thought of as a tail. The "train" is in reality made up of the enormously elongated upper tail coverts. The tail itself is brown and short as in the peahen. The colours result not from any green or blue pigments but from the micro-structure of the feathers and the resulting optical phenomena.
+[27]
+The long train feathers (and tarsal spurs) of the male develop only after the second year of life. Fully developed trains are found in birds older than four years. In northern India, these begin to develop each February and are moulted at the end of August.
+[28]
+The moult of the flight feathers may be spread out across the year.
+[29]
+Peafowl forage on the ground in small groups, known as musters, that usually have a cock and 3 to 5 hens. After the breeding season, the flocks tend to be made up only of females and young. They are found in the open early in the mornings and tend to stay in cover during the heat of the day. They are fond of dust-bathing and at dusk, groups walk in single file to a favourite waterhole to drink. When disturbed, they usually escape by running and rarely take to flight.
+[11]
+Peafowl produce loud calls especially in the breeding season. They may call at night when alarmed and neighbouring birds may call in a relay like series. Nearly seven different call variants have been identified in the peacocks apart from six alarm calls that are commonly produced by both sexes.
+[30]
+Peafowl roost in groups during the night on tall trees but may sometimes make use of rocks, buildings or pylons. In the Gir forest, they chose tall trees in steep river banks.
+[31]
+[32]
+Birds arrive at dusk and call frequently before taking their position on the roost trees.
+[33]
+Due to this habit of congregating at the roost, many population studies are made at these sites. The population structure is not well understood. In a study in northern India (Jodhpur), the number of males was 170–210 for 100 females but a study involving evening counts at the roost site in southern India (Injar) suggested a ratio of 47 males for 100 females.
+[12]
+Sexual selection
+[
+edit
+]
+See also:
+Fisherian runaway
+Thayer
+in his "Peacock in the Woods" (1907) suggested that the function of the ornate tail was
+camouflage
+The colours of the peacock and the contrast with the much duller peahen were a puzzle to early thinkers.
+Charles Darwin
+wrote to
+Asa Gray
+that the
+"sight of a feather in a peacock's tail, whenever I gaze at it, makes me sick!"
+as he failed to see an adaptive advantage for the extravagant tail which seemed only to be an encumbrance. Darwin developed a second principle of
+sexual selection
+to resolve the problem, though in the prevailing intellectual trends of Victorian Britain, the theory failed to gain widespread attention.
+[34]
+The American artist
+Abbott Handerson Thayer
+tried to show, from his own imagination, the value of the eyespots as
+disruptive camouflage
+in a 1907 painting.
+[35]
+He used the painting in his 1909 book
+Concealing-Coloration in the Animal Kingdom
+, denying the possibility of sexual selection and arguing that essentially all forms of
+animal colouration
+had evolved as
+camouflage
+.
+[36]
+He was roundly criticised in a lengthy paper by
+Theodore Roosevelt
+, who wrote that Thayer had only managed to paint the peacock's plumage as camouflage by sleight of hand, "with the blue sky showing through the leaves in just sufficient quantity here and there to warrant the author-artists explaining that the wonderful blue hues of the peacock's neck are obliterative because they make it fade into the sky."
+[37]
+In the 1970s a possible resolution to the apparent contradiction between natural selection and sexual selection was proposed.
+Amotz Zahavi
+argued that peacocks
+honestly signalled
+the
+handicap
+of having a large and costly train. However, the mechanism may be less straightforward than it seems – the cost could arise from depression of the
+immune system
+by the
+hormones
+that enhance feather development.
+[38]
+[39]
+Male courting female
+The ornate train is believed to be the result of sexual selection by the females. Males use their ornate trains in a
+courtship display
+: they raise the feathers into a fan and quiver them. However, recent studies have failed to find a relation between the number of displayed eyespots and mating success.
+[40]
+Marion Petrie tested whether or not these displays signaled a male's genetic quality by studying a feral population of peafowl in Whipsnade Wildlife Park in southern England. She showed that the number of eyespots in the train predicted a male's mating success, and this success could be manipulated by cutting the eyespots off some of the male's ornate feathers.
+[41]
+Although the removal of eyespots makes males less successful in mating,
+[41]
+eyespot removal substantially changes the appearance of male peafowls. It is likely that females mistake these males for sub-adults, or perceive that the males are physically damaged. Moreover, in a feral peafowl population, there is little variation in the number of eyespots in adult males. It is rare for adult males to lose a significant number of eyespots. Therefore, females' selection might depend on other sexual traits of males' trains. The quality of train is an honest signal of the condition of males; peahens do select males on the basis of their plumage. A recent study on a natural population of Indian peafowls in the Shivalik area of India has proposed a "high maintenance handicap" theory. It states that only the fittest males can afford the time and energy to maintain a long tail. Therefore, the long train is an indicator of good body condition, which results in greater mating success.
+[42]
+While train length seems to correlate positively with
+MHC
+diversity in males, females do not appear to use train length to choose males.
+[43]
+A study in Japan also suggests that peahens do not choose peacocks based on their ornamental plumage, including train length, number of eyespots and train symmetry.
+[44]
+Another study in France brings up two possible explanations for the conflicting results that exist. The first explanation is that there might be a genetic variation of the trait of interest under different geographical areas due to a
+founder effect
+and/or a
+genetic drift
+. The second explanation suggests that "the cost of trait expression may vary with environmental conditions," so that a trait that is indicative of a particular quality may not work in another environment.
+[41]
+Fisher's runaway model
+proposes positive feedback between female preference for elaborate trains and the elaborate train itself. This model assumes that the male train is a relatively recent evolutionary adaptation. However, a molecular phylogeny study on peacock-pheasants shows the opposite; the most recently evolved species is actually the least ornamented one.
+[45]
+This finding suggests a chase-away sexual selection, in which "females evolve resistance to male ploys".
+[46]
+A study in Japan goes on to conclude that the "peacocks' train is an obsolete signal for which female preference has already been lost or weakened".
+[44]
+However, some disagreement has arisen in recent years concerning whether or not female peafowl do indeed select males with more ornamented trains. In contrast to Petrie's findings, a seven-year Japanese study of free-ranging peafowl came to the conclusion that female peafowl do not select mates solely on the basis of their trains. Mariko Takahashi found no evidence that peahens expressed any preference for peacocks with more elaborate trains (such as trains having more
+ocelli
+), a more symmetrical arrangement, or a greater length.
+[44]
+Takahashi determined that the peacock's train was not the universal target of female
+mate choice
+, showed little variance across male populations, and, based on physiological data collected from this group of peafowl, do not correlate to male physical conditions. Adeline Loyau and her colleagues responded to Takahashi's study by voicing concern that alternative explanations for these results had been overlooked, and that these might be essential for the understanding of the complexity of mate choice.
+[41]
+They concluded that female choice might indeed vary in different ecological conditions.
+A 2013 study that tracked the eye movements of peahens responding to male displays found that they looked in the direction of the upper train of feathers only when at long distances and that they looked only at the lower feathers when males displayed close to them. The rattling of the tail and the shaking of the wings helped in keeping the attention of females.
+[47]
+Breeding
+[
+edit
+]
+Egg, collection
+Museum Wiesbaden
+Peahen with three chicks near
+Hodal
+in
+Faridabad District
+of
+Haryana
+, India
+Peacocks are
+polygamous
+, and the breeding season is spread out but appears to be dependent on the rains. Peafowls usually reach
+sexual maturity
+at the age of 2 to 3 years old.
+[48]
+Several males may congregate at a
+lek
+site and these males are often closely related.
+[49]
+Males at leks appear to maintain small territories next to each other and they allow females to visit them and make no attempt to guard harems. Females do not appear to favour specific males.
+[50]
+The males display in courtship by raising the upper-tail coverts into an arched fan. The wings are held half open and drooped and it periodically vibrates the long feathers, producing a ruffling sound. The cock faces the hen initially and struts and prances around and sometimes turns around to display the tail.
+[11]
+Males may also freeze over food to invite a female in a form of
+courtship feeding
+.
+[51]
+Males may display even in the absence of females. When a male is displaying, females do not appear to show any interest and usually continue their foraging.
+[12]
+The peak season in southern India is April to May, January to March in Sri Lanka and June in northern India. The nest is a shallow scrape in the ground lined with leaves, sticks and other debris. Nests are sometimes placed on buildings
+[52]
+and, in earlier times, have been recorded using the disused nest platforms of the
+white-rumped vultures
+. The clutch consists of 4–8 fawn to buff white
+eggs
+which are incubated only by the female. The eggs take about 28 days to hatch. The chicks are
+nidifugous
+and follow the mother around after hatching.
+[8]
+Downy young may sometimes climb on their mothers' back and the female may carry them in flight to a safe tree branch.
+[53]
+An unusual instance of a male incubating a clutch of eggs has been reported.
+[11]
+[54]
+Feeding
+[
+edit
+]
+Peafowl are omnivorous and eat seeds, insects (including termites), worms,
+[55]
+fruits, small mammals, frogs,
+[55]
+and reptiles (such as lizards).
+[55]
+They feed on small snakes but keep their distance from larger ones.
+[56]
+In the Gir forest of Gujarat, a large percentage of their food is made up of the fallen berries of
+Zizyphus
+.
+[57]
+They also feed on tree and flower buds, petals, grain, and grass and bamboo shoots.
+[55]
+Around cultivated areas, peafowl feed on a wide range of crops such as
+groundnut
+,
+tomato
+,
+paddy
+,
+chili
+and even
+bananas
+.
+[12]
+Around human habitations, they feed on a variety of food scraps and even human
+excreta
+.
+[11]
+In the countryside, it is particularly partial to crops and garden plants.
+Mortality factors
+[
+edit
+]
+Large animals such as
+leopards
+,
+dholes
+,
+golden jackals
+,
+lions
+, and
+tigers
+can ambush adult peafowls.
+[32]
+[58]
+However, only
+leopards
+regularly prey upon peafowls as adult peafowls are difficult to catch since they can usually escape ground predators by flying into trees.
+[59]
+[60]
+[61]
+They are also sometimes hunted by large birds of prey such as the
+changeable hawk-eagle
+and
+rock eagle-owl
+.
+[62]
+[63]
+Chicks are somewhat more prone to predation than adult birds. Adults living near human habitations are sometimes hunted by domestic
+dogs
+or by humans in some areas (southern Tamil Nadu) for folk remedies involving the use of "peacock oil".
+[12]
+Foraging in groups provides some safety as there are more eyes to look out for predators.
+[64]
+They also roost on high tree tops to avoid terrestrial predators, especially leopards.
+[32]
+In captivity, birds have been known to live for 23 years but it is estimated that they live for only about 15 years in the wild.
+[65]
+Conservation and status
+[
+edit
+]
+A white peafowl in
+Indira Gandhi Zoological Park
+,
+Visakhapatnam
+Indian peafowl are widely distributed in the wild across South Asia and protected both culturally in many areas and by law in India. Conservative estimates of the population put them at more than 100,000.
+[66]
+Illegal poaching for meat, however, continues and declines have been noted in parts of India.
+[67]
+Peafowl breed readily in captivity and as free-ranging ornamental fowl. Zoos, parks, bird-fanciers and dealers across the world maintain breeding populations that do not need to be augmented by the capture of wild birds.
+Poaching of peacocks for their meat and feathers and accidental poisoning by feeding on pesticide treated seeds are known threats to wild birds.
+[68]
+Methods to identify if feathers have been plucked or have been shed naturally have been developed, as Indian law allows only the collection of feathers that have been shed.
+[69]
+In parts of India, the birds can be a nuisance to agriculture as they damage crops.
+[11]
+Its adverse effects on crops, however, seem to be offset by the beneficial role it plays by consuming prodigious quantities of pests such as grasshoppers. They can also be a problem in gardens and homes where they damage plants, attack their reflections (thereby breaking glass and mirrors), perch and scratch cars or leave their droppings. Many cities where they have been introduced and gone feral have peafowl management programmes. These include educating citizens on how to prevent the birds from causing damage while treating the birds humanely.
+[70]
+[71]
+[72]
+In culture
+[
+edit
+]
+Main article:
+Mayura (mythology)
+See also:
+Peacock Throne
+Kartikeya with his consorts riding a peacock, painting by
+Raja Ravi Varma
+Prominent in many cultures, the peacock has been used in numerous iconic representations, including being designated the
+national bird
+of India in 1963.
+[11]
+The peacock, known as
+mayura
+in
+Sanskrit
+, has enjoyed a fabled place in India since and is frequently depicted in temple art, mythology, poetry, folk music and traditions.
+[73]
+A Sanskrit derivation of
+mayura
+is from the root
+mi
+for kill and said to mean "killer of snakes".
+[5]
+It is also likely that the Sanskrit term is a borrowing from
+Proto-Dravidian
+*mayVr
+(whence the Tamil word for peacock
+மயில் (mayil)
+) or a regional
+Wanderwort
+.
+[74]
+[75]
+Many Hindu deities are associated with the bird,
+Krishna
+is often depicted with a feather in his headband, while worshippers of
+Shiva
+associate the bird as the steed of the God of war,
+Kartikeya
+(also known as Skanda or Murugan). A story in the
+Uttara Ramayana
+describes the head of the
+Devas
+,
+Indra
+, who unable to defeat
+Ravana
+, sheltered under the wing of peacock and later blessed it with a "thousand eyes" and fearlessness from serpents.
+[5]
+Another story has Indra who after being cursed with a thousand ulcers was transformed into a peacock with a thousand eyes and this curse was removed by
+Vishnu
+.
+[76]
+In Buddhist philosophy, the peacock represents wisdom.
+[77]
+Peacock feathers are used in many rituals and ornamentation. Peacock motifs are widespread in Indian temple architecture, old coinage, textiles and continue to be used in many modern items of art and utility.
+[23]
+A folk belief found in many parts of India is that the peacock does not copulate with the peahen but that she is impregnated by other means. The stories vary and include the idea that the peacock looks at its ugly feet and cries whereupon the tears are fed on by the peahen causing it to be orally impregnated while other variants incorporate sperm transfer from beak to beak.
+[78]
+Similar ideas have also been ascribed to Indian crow species.
+[79]
+In Greek mythology the origin of the peacock's plumage is explained in the tale of
+Hera
+and
+Argus
+.
+[18]
+The main figure of the Yazidi religion
+Yezidism
+,
+Melek Taus
+, is most commonly depicted as a peacock.
+[80]
+[81]
+Peacock motifs are widely used even today such as in the logos of the US
+NBC
+and the
+PTV
+television networks and the
+Sri Lankan Airlines
+.
+A peacock or in his pride, on a field azure, on the arms of
+Saint-Paul, Savoie
+These birds were often kept in menageries and as ornaments in large gardens and estates. In medieval times, knights in Europe took a "Vow of the Peacock" and decorated their helmets with its plumes. In several
+Robin Hood
+stories, the titular archer uses arrows fletched with peacock feathers. Feathers were buried with
+Viking
+warriors
+[82]
+and the flesh of the bird was said to cure snake venom and many other maladies. Numerous uses in
+Ayurveda
+have been documented. Peafowl were said to keep an area free of snakes.
+[83]
+In 1526, the legal issue as to whether peacocks were wild or domestic fowl was thought sufficiently important for
+Cardinal Wolsey
+to summon all the English judges to give their opinion, which was that they are domestic fowl.
+[84]
+In
+Anglo-Indian
+usage of the 1850s, to peacock meant making visits to ladies and gentlemen in the morning. In the 1890s, the term "peacocking" in Australia referred to the practice of buying up the best pieces of land ("picking the eyes") so as to render the surrounding lands valueless.
+[85]
+The English word "peacock" has come to be used to describe a man who is very proud or gives a lot of attention to his clothing.
+[86]
+Main article:
+Di Goldene Pave
+A
+golden peacock
+(in
+Yiddish
+,
+Di Goldene Pave
+) is considered by some as a symbol of
+Ashkenazi Jewish culture
+, and is the subject of several folktales and songs in Yiddish.
+[87]
+[88]
+Peacocks are frequently used in European heraldry. Heraldic peacocks are most often depicted as facing the viewer and with their tails displayed. In this pose, the peacock is referred to as being "in his pride". Peacock tails, in isolation from the rest of the bird, are rare in British heraldry, but see frequent use in German systems.
+[89]
+The American television network
+NBC
+uses a stylized peacock as a legacy of its early introduction of color television, alluding to the brilliant color of a peacock, and continues to promote the bird as a trademark of its broadcasting and streaming services.
+References
+[
+edit
+]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+^
+.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a{background-size:contain}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a{background-size:contain}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a{background-size:contain}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#2C882D;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911F}html.skin-theme-clientpref-night .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-night .mw-parser-output .cs1-hidden-error{color:#f8a397}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-os .mw-parser-output .cs1-hidden-error{color:#f8a397}html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911F}}
+BirdLife International (2016).
+"
+Pavo cristatus
+"
+.
+IUCN Red List of Threatened Species
+.
+2016
+: e.T22679435A92814454.
+doi
+:
+10.2305/IUCN.UK.2016-3.RLTS.T22679435A92814454.en
+. Retrieved
+2 January
+2022
+.
+^
+"Peacock (bird)"
+.
+Britannica Online Encyclopedia
+.
+Archived
+from the original on 16 June 2008
+. Retrieved
+23 June
+2022
+.
+^
+Weekley, E (1921).
+An etymological dictionary of modern English
+. John Murray, London.
+ISBN
+1-176-40695-7
+.
+^
+Mookerji, Radhakumud (1 January 2016).
+Chandragupta Maurya and His Times
+. Motilal Banarsidass.
+ISBN
+978-81-208-0433-3
+.
+Archived
+from the original on 13 October 2023
+. Retrieved
+29 January
+2023
+.
+^
+a
+b
+c
+Lal, Krishna (2007).
+Peacock in Indian art, thought and literature
+. Abhinav Publications. pp. 11, 26, 139.
+ISBN
+978-81-7017-429-5
+.
+^
+Burton, R F (1884).
+The book of the sword
+. Chatto and Windus, London. p.
+155
+.
+ISBN
+0-486-25434-8
+.
+^
+Hehn, Victor; James P. Mallory (1976).
+Cultivated plants and domesticated animals in their migration from Asia to Europe: historico-linguistic studies Volume 7 of Amsterdam studies in the theory and history of linguistic science Amsterdam studies in the theory and history of linguistic science. Series I, Amsterdam classics in linguistics,1800-1925
+. John Benjamins Publishing Company. p. 263.
+ISBN
+90-272-0871-9
+.
+^
+a
+b
+c
+d
+Whistler, Hugh (1949).
+Popular handbook of Indian birds
+(4th ed.). Gurney and Jackson, London. pp. 401–410.
+ISBN
+1-4067-4576-6
+.
+^
+Blanford, WT (1898).
+The Fauna of British India, Including Ceylon and Burma. Birds
+. Vol. 4. Taylor and Francis, London. pp. 681–70.
+^
+a
+b
+c
+Baker, ECS (1928).
+The Fauna of British India, Including Ceylon and Burma. Birds. Volume 5
+(2nd ed.). Taylor and Francis, London. pp. 282–284.
+^
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+Ali, S; Ripley, S D (1980).
+Handbook of the birds of India and Pakistan
+. Vol. 2 (2nd ed.). Oxford University Press. pp. 123–126.
+ISBN
+0-19-562063-1
+.
+^
+a
+b
+c
+d
+e
+Johnsingh, AJT; Murali, S (1978).
+"The ecology and behaviour of the Indian Peafowl (
+Pavo cristatus
+) Linn. of Injar"
+.
+J. Bombay Nat. Hist. Soc
+.
+75
+(4): 1069–1079.
+Archived
+from the original on 2 August 2020
+. Retrieved
+21 December
+2017
+.
+^
+Sclater PL (1860).
+"On the black-shouldered peafowl of Latham (
+Pavo nigripennis
+)"
+.
+Proc. Zool. Soc. London
+: 221–222.
+^
+van Grouw, H. & Dekkers, W. 2023. The taxonomic history of Black-shouldered Peafowl; with Darwin’s help downgraded from species to variation.
+Bulletin of the British Ornithologists' Club
+, 143(1): 111–121.
+https://doi.org/10.25226/bboc.v143i1.2023.a7
+^
+Seth-Smith, D (1940). "Peafowl".
+Avicultural Magazine
+.
+5
+: 205–206.
+^
+Somes, RG Jr.; R. E. Burger (1991). "Plumage Color Inheritance of the Indian Blue Peafowl (
+Pavo Cristatus
+): Blue, Black-Shouldered, Cameo, and Oaten".
+Journal of Heredity
+.
+82
+: 64–68.
+doi
+:
+10.1093/jhered/82.1.64
+.
+^
+Somes, RG Jr.; Burger, R. E. (1993). "Inheritance of the White and Pied Plumage Color Patterns in the Indian Peafowl (
+Pavo cristatus
+)".
+J. Hered
+.
+84
+(1): 57–62.
+doi
+:
+10.1093/oxfordjournals.jhered.a111277
+.
+^
+a
+b
+Jackson, CE (2006).
+Peacock
+. Reaktion Books, London. pp.
+10
+–11.
+ISBN
+978-1-86189-293-5
+.
+^
+Haldane, J. B. S. (1922).
+"Sex ratio and unisexual sterility in hybrid animals"
+.
+J. Genet.
+12
+(2): 101–109.
+doi
+:
+10.1007/BF02983075
+.
+S2CID
+32459333
+.
+Archived
+from the original on 28 November 2019
+. Retrieved
+11 September
+2019
+.
+^
+Leimu, R.; Fischer, M. (2010). Bruun, Hans Henrik (ed.).
+"Between-Population Outbreeding Affects Plant Defence"
+.
+PLOS ONE
+.
+5
+(9): e12614.
+Bibcode
+:
+2010PLoSO...512614L
+.
+doi
+:
+10.1371/journal.pone.0012614
+.
+PMC
+2935481
+.
+PMID
+20838662
+.
+^
+Dodsworth, P.T.L. (1912).
+"Occurrence of the Common Peafowl
+Pavo cristatus
+, Linnaeus in the neighbourhood of Simla, N.W. Himalayas"
+.
+Journal of the Bombay Natural History Society
+.
+21
+(3): 1082–1083.
+Archived
+from the original on 16 February 2019
+. Retrieved
+21 December
+2017
+.
+^
+Whitman, C.H. (1898).
+"The birds of Old English literature"
+.
+The Journal of Germanic Philology
+.
+2
+(2): 40.
+doi
+:
+10.5962/bhl.title.54912
+.
+^
+a
+b
+Nair, P. T. (1974).
+"The Peacock Cult in Asia"
+(PDF)
+.
+Asian Folklore Studies
+.
+33
+(2): 93–170.
+doi
+:
+10.2307/1177550
+.
+JSTOR
+1177550
+. Archived from
+the original
+(PDF)
+on 5 February 2009.
+^
+Harling, Gavin.
+"Peafowl (Peacocks)"
+.
+www.east-northamptonshire.gov.uk
+.
+Archived
+from the original on 12 November 2022
+. Retrieved
+12 November
+2022
+.
+^
+Long, J. L. (1981).
+Introduced Birds of the World
+. Agricultural Protection Board of Western Australia.
+^
+Jaiswal, S.K. (2018).
+"Genome Sequence of Indian Peacock Reveals the Peculiar Case of a Glittering Bird"
+.
+bioRxiv
+.
+doi
+:
+10.1101/315457
+.
+^
+Blau, S.K. (2004).
+"Light as a Feather: Structural Elements Give Peacock Plumes Their Color"
+.
+Physics Today
+.
+57
+(1): 18–20.
+Bibcode
+:
+2004PhT....57a..18B
+.
+doi
+:
+10.1063/1.1650059
+.
+^
+Sharma, IK (1974).
+"Ecological Studies of the Plumes of the Peacock (
+Pavo cristatus
+)"
+(PDF)
+.
+The Condor
+.
+76
+(3): 344–346.
+doi
+:
+10.2307/1366352
+.
+JSTOR
+1366352
+.
+Archived
+(PDF)
+from the original on 20 March 2014
+. Retrieved
+24 March
+2013
+.
+^
+Marien, Daniel (1951). "Notes on some pheasants from southwestern Asia, with remarks on molt".
+American Museum Novitates
+(1518): 1–25.
+hdl
+:
+2246/3909
+.
+^
+Takahashi M; Hasegawa, T (2008). "Seasonal and diurnal use of eight different call types by Indian peafowl (
+Pavo cristatus
+)".
+Journal of Ethology
+.
+26
+(3): 375–381.
+doi
+:
+10.1007/s10164-007-0078-4
+.
+S2CID
+27794735
+.
+^
+Trivedi, Pranav; Johnsingh, AJT (1996).
+"Roost selection by Indian Peafowl (
+Pavo cristatus
+) in Gir Forest, India"
+.
+J. Bombay Nat. Hist. Soc
+.
+93
+(1): 25–29.
+Archived
+from the original on 2 August 2020
+. Retrieved
+21 December
+2017
+.
+^
+a
+b
+c
+Parasharya, BM; Mukherjee, Aeshita (1999).
+"Roosting behaviour of Indian Peafowl
+Pavo cristatus
+"
+.
+J. Bombay Nat. Hist. Soc
+.
+96
+(3): 471–472.
+Archived
+from the original on 2 August 2020
+. Retrieved
+21 December
+2017
+.
+^
+Navaneethakannan, K (1984).
+"Activity patterns in a colony of Peafowls (
+Pavo cristatus
+) in nature"
+.
+J. Bombay Nat. Hist. Soc
+.
+81
+(2): 387–393.
+Archived
+from the original on 2 August 2020
+. Retrieved
+21 December
+2017
+.
+^
+Miller, Geoffrey (2000).
+The mating mind : how sexual choice shaped the evolution of human nature
+(1st Anchor Books ed.). New York: Anchor Books.
+ISBN
+0-385-49517-X
+.
+^
+Boynton, Mary Fuertes (1952). "Abbott Thayer and Natural History".
+Osiris
+.
+10
+(1): 542–555.
+doi
+:
+10.1086/368563
+.
+S2CID
+145455502
+.
+^
+Philip Ball (31 July 2014).
+Invisible: The Dangerous Allure of the Unseen
+. Random House. p. 239.
+ISBN
+978-1-84792-289-2
+.
+^
+Roosevelt, Theodore (1911). "Revealing and concealing coloration in birds and mammals".
+Bulletin of the American Museum of Natural History
+.
+30
+(Article 8): 119–231.
+hdl
+:
+2246/470
+.
+The quote is on pp. 123–124.
+^
+Zahavi, Amotz; Avishag Zahavi, Amir Balaban, Melvin Patrick Ely (1999).
+The handicap principle: a missing piece of Darwin's puzzle
+. Oxford University Press.
+ISBN
+0-19-512914-8
+.
+{{
+cite book
+}}
+:  CS1 maint: multiple names: authors list (
+link
+)
+^
+Ros, Albert; Correia, Maria; Wingfield, John; Oliveira, Rui (2009). "Mounting an immune response correlates with decreased androgen levels in male peafowl,
+Pavo cristatus
+".
+Journal of Ethology
+.
+27
+(2): 209–214.
+doi
+:
+10.1007/s10164-008-0105-0
+.
+hdl
+:
+10400.12/1242
+.
+S2CID
+25651539
+.
+^
+Dakin, R; Montgomerie, R (2011). "Peahens prefer peacocks displaying more eyespots, but rarely".
+Animal Behaviour
+.
+82
+(1): 21–28.
+doi
+:
+10.1016/j.anbehav.2011.03.016
+.
+S2CID
+53201463
+.
+^
+a
+b
+c
+d
+Loyau, A.; Petrie, M.; Jalme, M.S.; Sorci, G. (2008). "Do peahens not prefer peacocks with more elaborate trains?".
+Animal Behaviour
+.
+76
+(5): e5–e9.
+doi
+:
+10.1016/j.anbehav.2008.07.021
+.
+S2CID
+40638610
+.
+^
+Harikrishnan, S.; Vasudevan, K.; Sivakumar, K. (2010).
+"Behavior of Indian Peafowl
+Pavo cristatus
+Linn. 1758 During the Mating Period in a Natural Population"
+.
+The Open Ornithology Journal
+.
+3
+: 13–19.
+doi
+:
+10.2174/1874453201003010013
+.
+^
+Hale, M.L.; Verduijn, M.H.; Moller, A.P.; Wolff, K.; Petrie, M. (2009).
+"Is the peacock's train an honest signal of genetic quality at the major histocompatibility complex?"
+.
+Journal of Evolutionary Biology
+.
+22
+(6): 1284–1294.
+doi
+:
+10.1111/j.1420-9101.2009.01746.x
+.
+PMID
+19453370
+.
+^
+a
+b
+c
+Takahashi, M.; Arita, H.; Hiraiwa-Hasegawa, M.; Hasegawa, T. (2008). "Peahens do not prefer peacocks with more elaborate trains".
+Animal Behaviour
+.
+75
+(4): 1209–1219.
+doi
+:
+10.1016/j.anbehav.2007.10.004
+.
+S2CID
+53196851
+.
+^
+Kimball, R.T.; Braun, E.L.; Ligon, J.D.; Lucchini, V.; Randi, E. (2001). "A molecular phylogeny of the peacock-pheasants (Galliformes: Polyplectron spp.) indicates loss and reduction of ornamental traits and display behaviours".
+Biological Journal of the Linnean Society
+.
+73
+(2): 187–198.
+doi
+:
+10.1006/bijl.2001.0536
+.
+^
+Davies, N.B.; Krebs, J.R.; West, S.A. (2012).
+Introduction to Behavioural Ecology
+(Fourth ed.). John Wiley & Sons, Ltd. pp. 179–222.
+^
+Yorzinski, Jessica L.; Patricelli, Gail L.; Babcock, Jason S.; Pearson, John M.; Platt, Michael L. (2013).
+"Through their eyes: selective attention in peahens during courtship"
+.
+Journal of Experimental Biology
+.
+216
+(16): 3035–3046.
+doi
+:
+10.1242/jeb.087338
+.
+PMC
+4074220
+.
+PMID
+23885088
+.
+^
+"Common (Indian) Peafowl"
+. Rolling Hills Wildlife Adventure. Archived from
+the original
+on 24 September 2015
+. Retrieved
+26 December
+2012
+.
+^
+Petrie, M.; Krupa, A. & Burke, T. (1999).
+"Peacocks lek with relatives even in the absence of social and environmental cues"
+(PDF)
+.
+Nature
+.
+401
+(6749): 155–157.
+Bibcode
+:
+1999Natur.401..155P
+.
+doi
+:
+10.1038/43651
+.
+S2CID
+4394886
+.
+Archived
+(PDF)
+from the original on 22 July 2011
+. Retrieved
+2 June
+2010
+.
+^
+Rands, M.R.M.; Ridley, M.W.; Lelliott, A.D. (1984). "The social organization of feral peafowl".
+Animal Behaviour
+.
+32
+(3): 830–835.
+doi
+:
+10.1016/S0003-3472(84)80159-1
+.
+S2CID
+53198443
+.
+^
+Stokes, A.W.; Williams, H. W. (1971).
+"Courtship Feeding in Gallinaceous Birds"
+(PDF)
+.
+The Auk
+.
+88
+(3): 543–559.
+Archived
+(PDF)
+from the original on 4 January 2014
+. Retrieved
+24 March
+2013
+.
+^
+Vyas, R. (1994).
+"Unusual breeding site of Indian Peafowl"
+.
+Newsletter for Birdwatchers
+.
+34
+(6): 139.
+^
+Singh, H. (1964).
+"Peahens flying up with young"
+.
+Newsletter for Birdwatchers
+.
+4
+(1): 14.
+^
+Shivrajkumar, Y.S. (1957).
+"An incubating Peacock (
+Pavo cristatus
+Linn.)"
+.
+Journal of the Bombay Natural History Society
+.
+54
+(2): 464.
+Archived
+from the original on 2 August 2020
+. Retrieved
+21 December
+2017
+.
+^
+a
+b
+c
+d
+"Pavo cristatus (Indian peafowl)"
+.
+Archived
+from the original on 25 September 2022
+. Retrieved
+23 September
+2022
+.
+^
+Johnsingh, AJT (1976).
+"Peacocks and cobra"
+.
+J. Bombay Nat. Hist. Soc
+.
+73
+(1): 214.
+Archived
+from the original on 2 August 2020
+. Retrieved
+21 December
+2017
+.
+^
+Trivedi, Pranav; Johnsingh, AJT (1995).
+"Diet of Indian Peafowl
+Pavo cristatus
+Linn. in Gir Forest, Gujarat"
+.
+J. Bombay Nat. Hist. Soc
+.
+92
+(2): 262–263.
+Archived
+from the original on 2 August 2020
+. Retrieved
+21 December
+2017
+.
+^
+Chourasia, Pooja, et al. "Food habits of golden jackal (Canis aureus) and striped hyena (Hyaena hyaena) in Sariska Tiger Reserve, Western India." World Journal of Zoology 7.2 (2012): 106-112.
+^
+Hayward, M. W., W. Jędrzejewski, and B. Jedrzejewska. "Prey preferences of the tiger P anthera tigris." Journal of Zoology 286.3 (2012): 221-231.
+^
+Arviazhagan, C.; Arumugam, R.; Thiyagesan, K. (2007). "Food habits of leopard (
+panthera pardus fusca
+), dhole (
+cuon alpinus
+) and striped hyena (
+hyaena hyaena
+) in a tropical dry thorn forest of southern India".
+Journal of the Bombay Natural History Society
+.
+104
+: 178–187.
+^
+Gurjar, Raju Lal, Ramesh Pratap Singh, and Ashok Mishra. "Density of the Indian Peafowl Pavo cristatus in Satpura Tiger Reserve, India." Journal homepage: www. wesca. net 8.1 (2013).
+^
+Dhanwatey, Amrut S (1986).
+"A Crested Hawk-Eagle
+Spizaetus cirrhatus
+(Gmelin) killing a Peafowl
+Pavo cristatus
+Linnaeus"
+.
+J. Bombay Nat. Hist. Soc
+.
+83
+(4): 202.
+Archived
+from the original on 2 August 2020
+. Retrieved
+21 December
+2017
+.
+^
+Tehsin, Raza; Tehsin, Fatema (1990).
+"Indian Great Horned Owl
+Bubo bubo
+(Linn.) and Peafowl
+Pavo cristatus
+Linn"
+.
+J. Bombay Nat. Hist. Soc
+.
+87
+(2): 300.
+Archived
+from the original on 14 October 2018
+. Retrieved
+21 December
+2017
+.
+^
+Yasmin, Shahla; Yahya, HSA (2000).
+"Group size and vigilance in Indian Peafowl
+Pavo cristatus
+(Linn.), Family: Phasianidae"
+.
+J. Bombay Nat. Hist. Soc
+.
+97
+(3): 425–428.
+Archived
+from the original on 2 August 2020
+. Retrieved
+21 December
+2017
+.
+^
+Flower, M.S.S. (1938). "The duration of life in animals – IV. Birds: special notes by orders and families".
+Proceedings of the Zoological Society of London
+: 195–235.
+^
+Madge S; McGowan, P (2002).
+Pheasant, partridges and grouse, including buttonquails, sandgrouse and allies
+. Christopher Helm, London.
+^
+Ramesh, K.; McGowan, P. (2009).
+"On the current status of Indian Peafowl
+Pavo cristatus
+(Aves: Galliformes: Phasianidae): keeping the common species common"
+.
+Journal of Threatened Taxa
+.
+1
+(2): 106–108.
+doi
+:
+10.11609/jott.o1845.106-8
+.
+^
+Alexander JP (1983). "Probable diazinon poisoning in peafowl: a clinical description".
+Vet. Rec
+.
+113
+(20): 470.
+doi
+:
+10.1136/vr.113.20.470
+.
+PMID
+6649386
+.
+S2CID
+11252054
+.
+^
+Sahajpal, V.; Goyal, S.P. (2008). "Identification of shed or plucked origin of Indian Peafowl (
+Pavo cristatus
+) tail feathers: Preliminary findings".
+Science and Justice
+.
+48
+(2): 76–78.
+doi
+:
+10.1016/j.scijus.2007.08.002
+.
+PMID
+18700500
+.
+^
+"La Canada, California, City Council, Peafowl Management Plan Update"
+(PDF)
+. Archived from
+the original
+(PDF)
+on 7 June 2011.
+^
+"East Northamptonshire plan"
+(PDF)
+. Archived from
+the original
+(PDF)
+on 13 June 2011.
+^
+"Living with peafowl. City of Dunedin, Florida"
+(PDF)
+. Archived from
+the original
+(PDF)
+on 21 December 2008.
+^
+Fitzpatrick J (1923).
+"Folklore of birds and beasts of India"
+.
+J. Bombay Nat. Hist. Soc
+.
+28
+(2): 562–565.
+Archived
+from the original on 2 August 2020
+. Retrieved
+21 December
+2017
+.
+^
+Masica, Colin P.
+(1991).
+The Indo-Aryan languages
+. Cambridge language surveys. Cambridge University Press. p. 40.
+ISBN
+978-0-521-23420-7
+.
+^
+Witzel, Michael (2002).
+Early Loan Words in Western Central Asia: Substrates, Migrations and Trade
+(PDF)
+. Harvard University.
+Archived
+(PDF)
+from the original on 16 September 2012
+. Retrieved
+11 January
+2022
+.
+^
+Anonymous (1891).
+Ramavijaya (The mythological history of Rama)
+. Bombay: Dubhashi & Co. p. 14.
+^
+Choskyi, Ven. Jampa (1988).
+"Symbolism of Animals in Buddhism"
+.
+Buddhist Hiamalaya
+.
+1
+(1).
+Archived
+from the original on 29 May 2010
+. Retrieved
+1 June
+2010
+.
+^
+Rolland, Eugene (1915).
+Faune populaire de la France. Tome 6
+. p. 149.
+Archived
+from the original on 11 August 2017
+. Retrieved
+2 June
+2017
+.
+^
+Emeneau, M.B (1943). "Studies in the Folk-Tales of India: I: Some Origin Stories of the Todas and Kotas".
+Journal of the American Oriental Society
+.
+63
+(2): 158–168.
+doi
+:
+10.2307/594123
+.
+JSTOR
+594123
+.
+^
+Empson, RHW (1928).
+The cult of the peacock angel
+. HF & G Witherby, London.
+^
+Springett, BH (1922).
+Secret sects of Syria and the Lebanon
+. George Allen & Unwin Ltd., London.
+^
+Tyrberg T (2002).
+"The archaeological record of domesticated and tamed birds in Sweden"
+(PDF)
+.
+Acta Zoologica Cracoviensia
+.
+45
+: 215–231. Archived from
+the original
+(PDF)
+on 26 July 2011
+. Retrieved
+2 June
+2010
+.
+^
+"Letter from the Desk of David Challinor, November 2001"
+(PDF)
+. Smithsonian Institution. Archived from
+the original
+(PDF)
+on 27 August 2011
+. Retrieved
+2 June
+2010
+.
+^
+Gwyn, Peter
+The King's Cardinal: The rise and Fall of Thomas Wolsey
+Pimlico 2000 p.113
+ISBN
+978-0712651226
+^
+Partridge, E; Beale, Paul (2002).
+A dictionary of slang and unconventional English
+. Routledge.
+ISBN
+0-415-29189-5
+.
+^
+"Peacock"
+.
+Cambridge English Dictionary
+.
+Archived
+from the original on 8 September 2010
+. Retrieved
+2 June
+2010
+.
+^
+"A Peacock's Dream: Introducing In geveb"
+.
+In geveb
+.
+Archived
+from the original on 4 June 2019
+. Retrieved
+4 June
+2019
+.
+^
+"The Golden Peacock | Jewish Folk Songs"
+.
+www.jewishfolksongs.com
+.
+Archived
+from the original on 29 March 2017
+. Retrieved
+4 June
+2019
+.
+^
+Arthur Fox-Davies
+,
+A Complete Guide to Heraldry
+, T.C. and E.C. Jack, London, 1909, 246-247,
+https://archive.org/details/completeguidetoh00foxduoft
+.
+Further reading
+[
+edit
+]
+Galusha, JG; Hill, LM (1996) A study of the behaviour of Indian Peacocks
+Pavo cristatus
+on Protection Island, Jefferson County, Washington, USA. Pavo 34(1&2):23–31.
+Ganguli, U (1965) A Peahen nests on a roof.
+Newsletter for Birdwatchers
+. 5(4):4–6.
+Prakash, M (1968) Mating of Peacocks
+Pavo cristatus
+.
+Newsletter for Birdwatchers
+. 8(6), 4–5.
+Rao, MS; Zaki, S; Ganesh, T (1981). "Colibacillosis in a Peacock".
+Current Science
+.
+50
+(12): 550–551.
+Sharma, IK (1969). "Habitat et comportment du Pavon (
+Pavo cristatus
+)".
+Alauda
+.
+37
+(3): 219–223.
+Sharma, IK (1970). "Analyse ecologique des parades du paon (
+Pavo cristatus
+)".
+Alauda
+.
+38
+(4): 290–294.
+Sharma, IK (1972). "Etude ecologique de la reproduction de la paon (
+Pavo cristatus
+)".
+Alauda
+.
+40
+(4): 378–384.
+Sharma, IK (1973).
+"Ecological studies of biomass of the Peafowl (
+Pavo cristatus
+)"
+.
+Tori
+.
+22
+(93–94): 25–29.
+doi
+:
+10.3838/jjo1915.22.25
+.
+Sharma, IK (1974). "Notes ecologique sur le paon bleu,
+Pavo cristatus
+".
+Les Carnets de Zoologie
+.
+34
+: 41–45.
+Sharma, IK (1981). "Adaptations and commensality of the Peafowl (
+Pavo cristatus
+) in the Indian Thar Desert".
+Annals Arid Zone
+.
+20
+(2): 71–75.
+Shrivastava AB, Nair NR, Awadhiya RP, Katiyar AK (1992). "Traumatic ventriculitis in Peacock (
+Pavo cristatus
+)".
+Indian Vet. J
+.
+69
+(8): 755.
+External links
+[
+edit
+]
+Indian peafowl video clips
+from the BBC archive on Wildlife Finder
+First recorded breeding in the wild in Africa
+at adu.org.za
+Article with video about Indian peafowl
+at avibirds.com
+.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}
+.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}
+.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}
+v
+t
+e
+National symbols of India
+Constitutional
+Flag of India
+(Flag)
+Emblem of India
+(Emblem)
+Satyameva Jayate
+(Motto)
+Jana Gana Mana
+(Anthem)
+Vande Mataram
+(Song)
+National Pledge
+(Pledge)
+Flora and fauna
+Bengal tiger
+(Animal)
+Indian peafowl
+(Bird)
+Lotus
+(Flower)
+Banyan
+(Tree)
+Mango
+(Fruit)
+Indian elephant
+(Heritage animal)
+Ganges river dolphin
+(Aquatic animal)
+King cobra
+(Reptile)
+Lactobacillus bulgaricus
+(Microber)
+Days
+Independence Day
+Republic Day
+Gandhi Jayanti
+Others
+Indian rupee
+(Currency)
+Ganges
+(River)
+Indian Calendar
+(Calendar)
+v
+t
+e
+Phasianidae
+Kingdom:
+Animalia
+Phylum:
+Chordata
+Class:
+Aves
+Order:
+Galliformes
+Subfamily
+Phasianinae
+Tribe
+Lerwini
+Lerwa
+Snow partridge
+(
+L. lerwa
+)
+Tribe
+Ithaginini
+Ithaginis
+Blood pheasant
+(
+I. cruentus
+)
+Tribe
+Lophophorini
+Tragopan
+Blyth's tragopan
+(
+T. blythii
+)
+Cabot's tragopan
+(
+T. caboti
+)
+Western tragopan
+(
+T. melanocephalus
+)
+Satyr tragopan
+(
+T. satyra
+)
+Temminck's tragopan
+(
+T. temminckii
+)
+Tetraophasis
+Verreaux's monal-partridge
+(
+T. obscurus
+)
+Szechenyi's monal-partridge
+(
+T. szechenyii
+)
+Lophophorus
+Himalayan monal
+(
+L. impejanus
+)
+Sclater's monal
+(
+L. sclateri
+)
+Chinese monal
+(
+L. lhuysii
+)
+Tribe
+Pucrasiini
+Pucrasia
+Koklass pheasant
+(
+P. macrolopha
+)
+Tribe
+Meleagridini
+Meleagris
+Wild turkey
+(
+M. gallopavo
+)
+Ocellated turkey
+(
+M. ocellata
+)
+†
+Californian turkey
+(
+M. californica
+)
+Tribe
+Tetraonini
+Grouse
+Canachites
+Spruce grouse
+(
+C. canadensis
+)
+Franklin's grouse
+(
+C. canadensis franklinii
+)
+Falcipennis
+Siberian grouse
+(
+F. falcipennis
+)
+Dendragapus
+Dusky grouse
+(
+D. obscurus
+)
+Sooty grouse
+(
+D. fuliginosus
+)
+Lagopus
+Willow ptarmigan
+(
+L. lagopus
+)
+Red grouse
+(
+L. l. scotica
+)
+Rock ptarmigan
+(
+L. muta
+)
+White-tailed ptarmigan
+(
+L. leucura
+)
+Tetrao
+Western capercaillie
+(
+T. urogallus
+)
+Cantabrian capercaillie
+(
+T. u. cantabricus
+)
+Black-billed capercaillie
+(
+T. urogalloides
+)
+Lyrurus
+Black grouse
+(
+L. tetrix
+)
+Caucasian grouse
+(
+L. mlokosiewiczi
+)
+Tetrastes
+Hazel grouse
+(
+T. bonasia
+)
+Chinese grouse
+(
+T. sewerzowi
+)
+Bonasa
+Ruffed grouse
+(
+B. umbellus
+)
+Centrocercus
+Greater sage-grouse
+(
+C. urophasianus
+)
+Gunnison grouse
+(
+C. minimus
+)
+Tympanuchus
+Sharp-tailed grouse
+(
+T. phasianellus
+)
+Columbian sharp-tailed grouse
+(
+T. p. columbianus
+)
+Greater prairie chicken
+(
+T. cupido
+)
+Heath hen
+(extinct)
+Attwater's prairie chicken
+(
+T. c. attwateri
+)
+Lesser prairie chicken
+(
+T. pallidicinctus
+)
+Tribe
+Rhizotherini
+Rhizothera
+Long-billed partridge
+(
+R. longirostris
+)
+Dulit partridge
+(
+R. dulitensis
+)
+Tribe
+Phasianini
+Perdix
+Grey partridge
+(
+P. perdix
+)
+Daurian partridge
+(
+P. dauurica
+)
+Tibetan partridge
+(
+P. hodgsoniae
+)
+Syrmaticus
+Elliot's pheasant
+(
+S. ellioti
+)
+Mrs. Hume's pheasant
+(
+S. humiae
+)
+Mikado pheasant
+(
+S. mikado
+)
+Copper pheasant
+(
+S. soemmerringi
+)
+Reeve's pheasant
+(
+S. reevesi
+)
+Chrysolophus
+Lady Amherst's pheasant
+(
+C. amherstiae
+)
+Golden pheasant
+(
+C. pictus
+)
+Phasianus
+Common pheasant
+(
+P. colchicus
+)
+Green pheasant
+(
+P. versicolor
+)
+Catreus
+Cheer pheasant
+(
+Catreus wallichi
+)
+Crossoptilon
+Blue eared pheasant
+(
+C. auritum
+)
+White eared pheasant
+(
+C. crossoptilon
+)
+Tibetan eared pheasant
+(
+C. harmani
+)
+Brown eared pheasant
+(
+C.mantchuricum
+)
+Lophura
+Bulwer's pheasant
+(
+L. bulweri
+)
+Siamese fireback
+(
+L. diardi
+)
+Edward's pheasant
+(
+L. edwardsi
+)
+Crestless fireback
+(
+L. erythrophthalma
+)
+Vietnamese pheasant
+(
+L. hatinhensis
+)
+Crested fireback
+(
+L. ignita
+)
+Imperial pheasant
+(
+L. imperialis
+)
+Salvadori's pheasant
+(
+L. inornata
+)
+Hoogerwerf's pheasant
+(
+L. i. hoogerwerfi
+)
+Kalij pheasant
+(
+L. leucomelanos
+)
+Silver pheasant
+(
+L. nycthemera
+)
+Swinhoe's pheasant
+(
+L. swinhoii
+)
+Subfamily
+Rollulinae
+Xenoperdix
+Rubeho forest partridge
+(
+X. obscuratus
+)
+Udzungwa forest partridge
+(
+X. udzungwensis
+)
+Caloperdix
+Ferruginous partridge
+(
+C. oculeus
+)
+Rollulus
+Crested partridge
+(
+R. rouloul
+)
+Melanoperdix
+Black partridge
+(
+M. niger
+)
+Arborophila
+Hill partridge
+(
+A. torqueola
+)
+Sichuan partridge
+(
+A. rufipectus
+)
+Chestnut-breasted partridge
+(
+A. mandellii
+)
+White-necklaced partridge
+(
+A. gingica
+)
+Rufous-throated partridge
+(
+A. rufogularis
+)
+Red-billed partridge
+(
+A.a rubrirostris
+)
+Siamese partridge
+(
+A. diversa
+)
+Chestnut-headed partridge
+(
+A. cambodiana
+)
+Hainan partridge
+(
+A. ardens
+)
+Taiwan partridge
+(
+A. crudigularis
+)
+White-cheeked partridge
+(
+A. atrogularis
+)
+Bar-backed partridge
+(
+A. brunneopectus
+)
+Orange-necked partridge
+(
+A. davidi
+)
+Red-breasted partridge
+(
+A. hyperythra
+)
+Malayan partridge
+(
+A. campbelli
+)
+Roll's partridge
+(
+A. rolli
+)
+Sumatran partridge
+(
+A. sumatrana
+)
+Chestnut-bellied partridge
+(
+A. javanica
+)
+Grey-breasted partridge
+(
+A. orientalis
+)
+Subfamily
+Pavoninae
+Tribe
+Pavonini
+Rheinardia
+Vietnamese crested argus
+(
+R. ocellata
+)
+Malayan crested argus
+(
+R. nigrescens
+)
+Argusianus
+Great argus
+(
+A. argus
+)
+Afropavo
+Congo peafowl
+(
+A. congensis
+)
+Pavo
+Indian peafowl
+(
+P. cristatus
+)
+Green peafowl
+(
+P. muticus
+)
+Tropicoperdix
+Chestnut-necklaced partridge
+(
+T. charltonii
+)
+Green-legged partridge
+(
+T. chloropus
+)
+Tribe
+Polyplectronini
+Haematortyx
+Crimson-headed partridge
+(
+H. sanguiniceps
+)
+Galloperdix
+Red spurfowl
+(
+G. spadicea
+)
+Painted spurfowl
+(
+G. lunulata
+)
+Sri Lanka spurfowl
+(
+G. bicalcarata
+)
+Polyplectron
+Grey peacock-pheasant
+(
+P. bicalcaratum
+)
+Bronze-tailed peacock-pheasant
+(
+P. chalcurum
+)
+Palawan peacock-pheasant
+(
+P. emphanum
+)
+Germain's peacock-pheasant
+(
+P. germaini
+)
+Mountain peacock-pheasant
+(
+P. inopinatum
+)
+Hainan peacock-pheasant
+(
+P. katsumatae
+)
+Malayan peacock-pheasant
+(
+P. malacense
+)
+Bornean peacock-pheasant
+(
+P. schleiermacheri
+)
+Tribe
+Gallini
+Bambusicola
+Mountain bamboo partridge
+(
+B. fytchii
+)
+Chinese bamboo partridge
+(
+B. thoracicus
+)
+Taiwan bamboo partridge
+(
+B. sonorivox
+)
+Gallus
+Red junglefowl
+(
+G. gallus
+)
+Sri Lankan junglefowl
+(
+G. lafayetii
+)
+Grey junglefowl
+(
+G. sonneratii
+)
+Green junglefowl
+(
+G. varius
+)
+Peliperdix
+Latham's francolin
+(
+P. lathami
+)
+Ortygornis
+Crested francolin
+(
+O. sephaena
+)
+Grey francolin
+(
+O. pondicerianus
+)
+Swamp francolin
+(
+O. gularis
+)
+Francolinus
+Black francolin
+(
+F. francolinus
+)
+Painted francolin
+(
+F. pictus
+)
+Chinese francolin
+(
+F. pintadeanus
+)
+Campocolinus
+Coqui francolin
+(
+C. coqui
+)
+White-throated francolin
+, (
+C. albogularis
+)
+Schlegel's francolin
+(
+C. schlegelii
+)
+Scleroptila
+Ring-necked francolin
+(
+S. streptophora
+)
+Red-winged francolin
+(
+S. levaillantii
+)
+Finsch's francolin
+(
+S. finschi
+)
+Moorland francolin
+(
+S. psilolaema
+)
+Grey-winged francolin
+(
+S. afra
+)
+Orange River francolin
+(
+S. gutturalis
+)
+Shelley's francolin
+(
+S. shelleyi
+)
+Tribe
+Coturnicini
+Tetraogallus
+Caucasian snowcock
+(
+T. caucasicus
+)
+Caspian snowcock
+(
+T. caspius
+)
+Himalayan snowcock
+(
+T. himalayensis
+)
+Tibetan snowcock
+(
+T. tibetanus
+)
+Altai snowcock
+(
+T. altaicus
+)
+Ammoperdix
+See-see partridge
+(
+A. griseogularis
+)
+Sand partridge
+(
+A. heyi
+)
+Synoicus
+Brown quail
+(
+S. ypsilophorus
+)
+Snow Mountain quail
+(
+S. monorthonyx
+)
+Blue quail
+(
+S. adansonii
+)
+King quail
+(
+S. chinensis
+)
+Margaroperdix
+Madagascar partridge
+(
+M. madagarensis
+)
+Coturnix
+Rain quail
+(
+C. coromandelica
+)
+Harlequin quail
+(
+C. delegorguei
+)
+Common quail
+(
+C. coturnix
+)
+Japanese quail
+(
+C. japonica
+)
+Stubble quail
+(
+C. pectoralis
+)
+Alectoris
+Arabian partridge
+(
+A. melanocephala
+)
+Przevalski's partridge
+(
+A. magna
+)
+Rock partridge
+(
+A. graeca
+)
+Chukar partridge
+(
+A. chukar
+)
+Philby's partridge
+(
+A. philbyi
+)
+Barbary partridge
+(
+A. barbara
+)
+Red-legged partridge
+(
+A. rufa
+)
+Perdicula
+Jungle bush quail
+(
+P. asiatica
+)
+Rock bush quail
+(
+P. argoondah
+)
+Painted bush quail
+(
+P. erythrorhyncha
+)
+Manipur bush quail
+(
+P. manipurensis
+)
+Ophrysia
+Himalayan quail
+(
+O. superciliosa
+) (possibly extinct)
+Pternistis
+Hartlaub's spurfowl
+(
+P. hartlaubi
+)
+Mount Cameroon spurfowl
+(
+P. camerunensis
+)
+Handsome spurfowl
+(
+P. nobilis
+)
+Chestnut-naped spurfowl
+(
+P. castaneicollis
+)
+Black-fronted spurfowl
+(
+P. atrifrons
+)
+Erckel's spurfowl
+(
+P. erckelii
+)
+Djibouti spurfowl
+(
+P. ochropectus
+)
+Swierstra's spurfowl
+(
+P. swierstrai
+)
+Ahanta spurfowl
+(
+P. ahantensis
+)
+Grey-striped spurfowl
+(
+P. griseostriatus
+)
+Jackson's spurfowl
+(
+P. jacksoni
+)
+Red-billed spurfowl
+(
+P. adspersus
+)
+Cape spurfowl
+(
+P. capensis
+)
+Natal spurfowl
+(
+P. natalensis
+)
+Hildebrandt's spurfowl
+(
+P. hildebrandti
+)
+Double-spurred spurfowl
+(
+P. bicalcaratus
+)
+Scaly spurfowl
+(
+P. squamatus
+)
+Heuglin's spurfowl
+(
+P. icterorhynchus
+)
+Clapperton's spurfowl
+(
+P. clappertoni
+)
+Harwood's spurfowl
+(
+P. harwoodi
+)
+Swainson's spurfowl
+(
+P. swainsonii
+)
+Yellow-necked spurfowl
+(
+P. leucoscepus
+)
+Grey-breasted spurfowl
+(
+P. rufopictus
+)
+Red-necked spurfowl
+(
+P. afer
+)
+185 living species in 32 genera
+Taxon identifiers
+Pavo cristatus
+Wikidata
+:
+Q61865
+Wikispecies
+:
+Pavo cristatus
+ADW
+:
+Pavo_cristatus
+AFD
+:
+Pavo_cristatus
+ARKive
+:
+pavo-cristatus
+Avibase
+:
+A8C34DC9655204ED
+BirdLife
+:
+22679435
+BOLD
+:
+88912
+BOW:
+compea
+CoL
+:
+6TWGZ
+eBird
+:
+compea
+EURING
+:
+35670
+GBIF
+:
+9451184
+iNaturalist
+:
+1204
+IRMNG
+:
+11160615
+ISC
+:
+70935
+ITIS
+:
+176113
+IUCN
+:
+22679435
+NatureServe
+:
+2.100180
+NBN
+:
+NHMSYS0001689593
+NCBI
+:
+9049
+Neotropical
+:
+compea
+NZBO:
+peafowl
+NZOR:
+5ef59b86-b1e8-4831-a7d6-6d6ca540ee47
+Observation.org
+:
+2010
+Species+
+:
+65568
+TSA
+:
+13022
+Xeno-canto
+:
+Pavo-cristatus
+.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}
+Authority control databases
+: National
+France
+BnF data
+Israel
+United States
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=Indian_peafowl&oldid=1227471163
+"
+Categories
+:
+IUCN Red List least concern species
+Pavo (genus)
+National symbols of India
+Birds of South Asia
+Birds described in 1758
+Taxa named by Carl Linnaeus
+Hidden categories:
+CS1 maint: multiple names: authors list
+Articles with short description
+Short description is different from Wikidata
+Use British English from March 2013
+Use dmy dates from August 2021
+Articles with 'species' microformats
+Taxonbars with 25–29 taxon IDs
+Articles with BNF identifiers
+Articles with BNFdata identifiers
+Articles with J9U identifiers
+Articles with LCCN identifiers
+Articles containing video clips
+This page was last edited on 5 June 2024, at 22:44
+(UTC)
+.
+Text is available under the
+Creative Commons Attribution-ShareAlike License 4.0
+;
+additional terms may apply. By using this site, you agree to the
+Terms of Use
+and
+Privacy Policy
+. Wikipedia® is a registered trademark of the
+Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-68fb85446b-qm2wb","wgBackendResponseTime":145,"wgPageParseReport":{"limitreport":{"cputime":"1.349","walltime":"1.688","ppvisitednodes":{"value":13761,"limit":1000000},"postexpandincludesize":{"value":386929,"limit":2097152},"templateargumentsize":{"value":7484,"limit":2097152},"expansiondepth":{"value":20,"limit":100},"expensivefunctioncount":{"value":38,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":374103,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1465.050      1 -total"," 36.36%  532.689      1 Template:Reflist"," 20.68%  302.961      1 Template:Speciesbox"," 20.23%  296.361      1 Template:Taxobox/core"," 18.18%  266.395     56 Template:Cite_journal"," 14.54%  213.077      1 Template:Taxonbar","  8.97%  131.383     16 Template:Navbox","  6.25%   91.570      1 Template:Cite_iucn","  6.16%   90.207     23 Template:Cite_book","  5.54%   81.152      1 Template:Symbols_of_India"]},"scribunto":{"limitreport-timeusage":{"value":"0.934","limit":"10.000"},"limitreport-memusage":{"value":10897137,"limit":52428800}},"cachereport":{"origin":"mw2339","timestamp":"20240610123024","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Indian peafowl","url":"https:\/\/en.wikipedia.org\/wiki\/Indian_peafowl","sameAs":"http:\/\/www.wikidata.org\/entity\/Q61865","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q61865","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-24T07:14:11Z","dateModified":"2024-06-05T22:44:56Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/df\/Peacock%2C_East_Park%2C_Hull_-_panoramio.jpg","headline":"large and brightly coloured bird in the pheasant family"}
